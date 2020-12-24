@@ -1,1 +1,3 @@
 # Eight-Queens
+
+Classic
