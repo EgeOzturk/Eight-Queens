@@ -1,3 +1,3 @@
 # Eight-Queens
 
-Classic
+Classic Problem.
